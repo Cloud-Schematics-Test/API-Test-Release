@@ -1,2 +1,2 @@
-# API-Test-Release
-Repo used for release API tests
+# Release v1.0.0
+This is README of release 1.0.0
