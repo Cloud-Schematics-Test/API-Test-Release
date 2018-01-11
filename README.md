@@ -1,2 +1,3 @@
-# Next upcoming release v2.0.0
-This is README of next upcoming release 2.0.0
+# API-Test-Release
+
+## Version v1.0.0
